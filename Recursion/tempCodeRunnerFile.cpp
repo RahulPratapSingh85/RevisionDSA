@@ -1,1 +1,1 @@
-cout<<arr[i]<<endl;
+cout<< ans<< endl;
