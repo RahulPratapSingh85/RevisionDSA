@@ -1,1 +1,1 @@
-cout<< ans<< endl;
+temp.pop_back();
